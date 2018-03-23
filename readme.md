@@ -1445,7 +1445,7 @@ This is an early version of [Inception](#inception) in a lot of ways, and a rema
 
 ![](https://cloud.githubusercontent.com/assets/170270/7905777/f4fc5402-081e-11e5-9a71-8dad63e3b30b.gif)
 
-#### [Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]
+#### ~[Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]~
 
 This is a classic film, and well worth watching if only for the incredible and iconic 'khaaaaan' echo. More impressive, however, is Ricardo Montalban's performance, which is incredible on its own. As well, in a move that goes against mainstream whitewashing, a Mexican and not a Caucasian plays a genetically engineered superhuman, making this a movie that showed the power of diversity well ahead of its time. This movie is great to watch. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1519,7 +1519,7 @@ Categories: `adventure` `drama`
 
 > Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.
 
-#### [Firefly](http://www.imdb.com/title/tt0303461/) (2002–2003) [9.2]
+#### ~[Firefly](http://www.imdb.com/title/tt0303461/) (2002–2003) [9.2]~
 
 Categories: `adventure` `drama` `western`
 
@@ -1533,7 +1533,7 @@ What he said. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.
 
-#### [Fringe](http://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]
+#### ~[Fringe](http://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]~
 
 Categories: `drama` `mystery`
 
@@ -1581,7 +1581,7 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 > Trapped on an Ancient spaceship billions of light years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.
 
-#### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
+#### ~[Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]~
 
 Categories: `action` `adventure` `drama`
 
@@ -1597,7 +1597,7 @@ While Discovery is fundamentally quite different from much of the Trek that's co
 
 > Ten years before Kirk, Spock and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.
 
-#### [Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
+#### ~[Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]~
 
 Categories: `action` `adventure` `mystery`
 
@@ -1605,7 +1605,7 @@ A worthy successor to The Next Generation, well developed characters, great Xind
 
 > A century before Captain Kirk's five-year mission, Jonathan Archer captains Earth ship Enterprise NX-01 during the early years of Starfleet leading up to the formation of the Federation and the Earth-Romulan War.
 
-#### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
+#### ~[Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]~
 
 Categories: `action` `adventure` `mystery`
 
@@ -1693,7 +1693,7 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
-#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]
+#### ~[We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]~
 
 Categories: `hard-science-fiction` `sci-fi` `society`
 
