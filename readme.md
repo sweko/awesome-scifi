@@ -342,7 +342,7 @@ This is always fun; it's a classic, and it is fun remembering what science ficti
 
 _Novels which place an emphasis on scientific accuracy and/or technical detail; where the science itself is a central topic._
 
-#### [A Fire Upon the Deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep) (1992) *by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)* [4.1]
+#### ~[A Fire Upon the Deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep) (1992) *by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)* [4.1]~
 
 > _A Fire upon the Deep_ is the big, breakout book that fulfills the promise of Vinge’s career to date: a gripping tale of galactic war told on a cosmic scale.
 
@@ -380,7 +380,7 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms—the cheela—living on Dragon’s Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
 
-#### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]
+#### ~[Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]~
 
 Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle)
 
@@ -396,7 +396,7 @@ With all the ideas contained in Permutation City, a typical Sci-Fi author would 
 
 > In the not-too-distant future, technology has given birth to a form of immortality. The human mind can be scanned and uploaded into a virtual reality program to become a perfect electronic “Copy,” aware of itself. A new Copy finds himself forced to cooperate in scientific experiments with the flesh-and-blood man he was copied from.
 
-#### [Red Mars](https://www.goodreads.com/book/show/77507.Red_Mars) (1993) *by [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)* [3.8]
+#### ~[Red Mars](https://www.goodreads.com/book/show/77507.Red_Mars) (1993) *by [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)* [3.8]~
 
 An interesting take on the near-future colonization of Mars by one hundred of the world's greatest scientists, filled with political intrigue and "hard science" alike. Admittedly some parts can be a slog, think A Song of Ice and Fire: awesome narrative in the grand scheme, with perhaps a bit too much description of Martian landscape/house sigils. - [@rubzo](https://github.com/rubzo)
 
@@ -408,7 +408,7 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 
 > However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.
 
-#### [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) (2012) *by [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29)* [4.4]
+#### ~[The Martian](https://www.goodreads.com/book/show/18007564-the-martian) (2012) *by [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29)* [4.4]~
 
 This is a fun read; Weir manages to write an evocative techno-thriller without having his characters stoop to constant navel gazing and lonesome pining. This could be described as Robinson Crusoe - in Space. The characters on the earth side aren't the greatest, but the humor throughout the book really pulls it together, and watching a master at work as far as mechanical engineering goes was fascinating. Loved it. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -424,7 +424,7 @@ This book is most interesting for its pretty cool take on terraforming a planet,
 
 > Space writers holiday. When a celebrated science fiction writer takes to space on his first trip to Mars, he’s sure to be in for some heckling from the spaceship crew. But Martin Gibson, man about space, takes it all in his stride. That is, until he lands on the red planet. Once there the intrepid author causes one problem after another as he stumbles upon Mars’ most carefully hidden secrets and threatens the future of an entire planet
 
-#### [Aurora](https://www.goodreads.com/book/show/23197269-aurora) (2015) *by [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)* [3.7]
+#### ~[Aurora](https://www.goodreads.com/book/show/23197269-aurora) (2015) *by [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)* [3.7]~
 
 This was, I thought, an emotional read. I really connected with the characters and their struggle. It was interesting seeing the ways they overcame each obstacle despite overwhelming odds. It also shows what could happen when desperate people are left to fend for themselves without a governing force. - [@davidmerrique](https://github.com/davidmerrique)
 
@@ -456,7 +456,7 @@ A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. 
 
 > And nothing less than the future is at stake.
 
-#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) *by [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)* [3.9] 🌟 🔥
+#### ~[Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) *by [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)* [3.9] 🌟 🔥~
 
 > The Matrix is a world within the world, a global consensus hallucination, the representation of every byte of data in cyberspace…
 
@@ -464,23 +464,23 @@ A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. 
 
 > Hotwired to the leading edges of art and technology, _Neuromancer_ ranks with _1984_ and _Brave New World_ as one of the century’s most potent visions of the future.
 
-#### [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) (1992) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.0] 🔥
+#### ~[Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) (1992) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.0] 🔥~
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. _Snow Crash_ is a mind-altering romp through a future America so bizarre, so outrageous… you’ll recognize it immediately.
 
-#### [The Demolished Man](https://www.goodreads.com/book/show/76740.The_Demolished_Man) (1951) *by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester)* [4.0]
+#### ~[The Demolished Man](https://www.goodreads.com/book/show/76740.The_Demolished_Man) (1951) *by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester)* [4.0]~
 
 I think of this book often, even though initially I had consigned it as a cheap paperback crime thriller set in space. The main part of this book that is interesting is the implications regarding policed thoughts, especially given recent advances in government surveillance. The other part of this book I think about a lot is the advertising jingle - _Tenser, Tenser, said the tensor_ - which plays a major role. I've still got no idea what it is meant to mean. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In a world in which the police have telepathic powers, how do you get away with murder? Ben Reichs heads a huge 24th century business empire, spanning the solar system. He is also an obsessed, driven man determined to murder a rival. To avoid capture, in a society where murderers can be detected even before they commit their crime, is the greatest challenge of his life.
 
-#### [The Diamond Age: Or, A Young Lady’s Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) (1995) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
+#### ~[The Diamond Age: Or, A Young Lady’s Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) (1995) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]~
 
 This book had me looking up more words than any book had me do for a long time. A mildly interesting story, with cunning turns and twists, in a very interesting world. What suprised me most was that the book already foresaw cryptocurrencies, 3d-printers and fleets of UAV's while already being 20+ years old. - [@fritzvd](https://github.com/fritzvd)
 
 > _The Diamond Age: Or, A Young Lady’s Illustrated Primer_ is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
 
-#### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) (1955) *by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester)* [4.2]
+#### ~[The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) (1955) *by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester)* [4.2]~
 
 This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -501,13 +501,13 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 _Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
 
-#### [1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)* [4.1] 🌟 🔥
+#### ~[1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)* [4.1] 🌟 🔥~
 
 > Written in 1948, _1984_ was George Orwell’s chilling prophecy about the future.
 
 > While 1984 has come and gone, Orwell’s narrative is more timely that ever. _1984_ presents a “negative utopia,” that is at once a startling and haunting vision of the world—so powerful that it’s completely convincing from start to finish. No one can deny the power of this novel, its hold on the imaginations of entire generations of readers, or the resiliency of its admonitions—a legacy that seems to grow, not lessen, with the passage of time.
 
-#### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) (1932) *by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)* [3.9] 🌟 🔥
+#### ~[Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) (1932) *by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)* [3.9] 🌟 🔥~
 
 This book is insidiously horrifying in its applicability, more so than _1984_ or _Fahrenheit 451_. [Here's a comic](https://abetterkuwait.files.wordpress.com/2011/08/orwell-huxley.jpg) that sums up the difference. Well worth the read. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -515,7 +515,7 @@ This book is insidiously horrifying in its applicability, more so than _1984_ or
 
 > Huxley’s ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
 
-#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.0] 🌟 🔥
+#### ~[Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.0] 🌟 🔥~
 
 A classic, beautiful book. A short read that does a good job of making the reader think about the ramifications of censorship, and is still entertaining and beautiful in its own way. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -533,7 +533,7 @@ This book is a wonderfully constructed tale that can be seen as warning for an a
 
 > _Oryx and Crake_ is at once an unforgettable love story and a compelling vision of the future. Snowman, known as Jimmy before mankind was overwhelmed by a plague, is struggling to survive in a world where he may be the last human, and mourning the loss of his best friend, Crake, and the beautiful and elusive Oryx whom they both loved. In search of answers, Snowman embarks on a journey–with the help of the green-eyed Children of Crake–through the lush wilderness that was so recently a great city, until powerful corporations took mankind on an uncontrolled genetic engineering ride. Margaret Atwood projects us into a near future that is both all too familiar and beyond our imagining.
 
-#### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) (2011) *by [Ernest Cline](https://en.wikipedia.org/wiki/Ernest_Cline)* [4.3] 🔥
+#### ~[Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) (2011) *by [Ernest Cline](https://en.wikipedia.org/wiki/Ernest_Cline)* [4.3] 🔥~
 
 This is easily in one of my top 5 favorite books I've ever read. It's SO fun to read, and every single person I've recommended it to has loved it. Even if you don't understand every single reference, it's still a great story to follow. It has an excellent amount of humor, adventure, and nostalgia. It also has one of the best endings I've ever read, which any reader knows is a hard thing to nail. Ernest Cline really hit it out of the park with this one. Highly recommend it. - [cassidoo](https://github.com/cassidoo)
 
@@ -555,7 +555,7 @@ This book is AWESOME. It's so AWESOME that it makes me want to go back and play 
 > A quest for the ultimate prize.
 > Are you ready?
 
-#### [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) (1974) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.2]
+#### ~[The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) (1974) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.2]~
 
 Sci-Fi, sociology and philosophy. - [@NaxYoMizmo](https://twitter.com/NaxYoMizmo)
 
@@ -591,7 +591,7 @@ The debut novel from the guy who would go on to write Half-Life and Portal. A di
 
 > Dad's son P.J., discovering that he's been programmed to be gay (as part of Doc Edison's notions of a "balanced family"), flees the enclave, only to be captured, drugged, and brainwashed by Christian Soldiers. Dad's wife Connie runs off with a salesman from the ubiquitous Cartel; a bunch of Doc Edison clones show up, all quite mad; the Christian Soldiers attempt a computerized invasion; and the feud between Dad and Jock Smith comes to a head.
 
-#### [The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [3.8]
+#### ~[The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [3.8]~
 
 My favourite of all Philip K. Dick's novels, the I Ching and the alternate history within an alternate history novel being interesting elements. - [@roryrjb](https://github.com/roryrjb)
 
@@ -601,7 +601,7 @@ My favourite of all Philip K. Dick's novels, the I Ching and the alternate histo
 
 _Novels which emphasize adventure, set mainly or entirely in outer space, usually involving conflict between opponents possessing advanced abilities, weapons, and other technology._
 
-#### [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) (2013) *by [Ann Leckie](https://en.wikipedia.org/wiki/Ann_Leckie)* [4.0]
+#### ~[Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) (2013) *by [Ann Leckie](https://en.wikipedia.org/wiki/Ann_Leckie)* [4.0]~
 
 *(And all the following [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword))*
 
@@ -637,7 +637,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > Six million years ago, at the dawn of the star-faring era, Abigail Gentian fractured herself into a thousand male and female clones, which she called shatterlings. But now, someone is eliminating the Gentian line. Campion and Purslane—two shatterlings who have fallen in love and shared forbidden experiences—must determine exactly who, or what, their enemy is, before they are wiped out of existence.
 
-#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) (1989) *by [Dan Simmons](https://en.wikipedia.org/wiki/Dan_Simmons)* [4.2] 🌟
+#### ~[Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) (1989) *by [Dan Simmons](https://en.wikipedia.org/wiki/Dan_Simmons)* [4.2] 🌟~
 
 > On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands.
 
@@ -652,7 +652,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 _Novels concerning the end of civilization, usually based in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
 
-#### [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) (1959) *by [Walter M. Miller, Jr.](https://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.)* [4.0]
+#### ~[A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) (1959) *by [Walter M. Miller, Jr.](https://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.)* [4.0]~
 
 This has a particularly arid and inspired view of humanity after a nuclear holocaust. The discovery of small things and their new importance down the line is well done here. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -666,11 +666,11 @@ A weird, beautiful book, reminiscent of Lovecraft, Stephen King, and Brautigan's
 
 > In the ruins of a nameless city of the future, ruled by a giant grizzly called Mord, a woman named Rachel lives as a scavenger, collecting genetically engineered organisms and experiments created by the biotech firm the Company. Hidden in Mord's fur, she finds a sea anemone shaped creature she calls Borne.
 
-#### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [4.1] 🌟 🔥
+#### ~[Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [4.1] 🌟 🔥~
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can’t afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep… even humans.
 
-#### [Earth Abides](https://www.goodreads.com/book/show/93269.Earth_Abides) (1949) *by [George R. Stewart](https://en.wikipedia.org/wiki/George_R._Stewart)* [3.9]
+#### ~[Earth Abides](https://www.goodreads.com/book/show/93269.Earth_Abides) (1949) *by [George R. Stewart](https://en.wikipedia.org/wiki/George_R._Stewart)* [3.9]~
 
 Highly plausible outcome after a near-extinction event, the human race will hopelessly go down the path of least resistance. Great and somewhat disheartening ending. - [@uraimo](https://github.com/uraimo)
 
@@ -682,13 +682,13 @@ I traveled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedr
 
 > _Riddley Walker_ is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state—and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture—rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
 
-#### [The City and the Stars](https://www.goodreads.com/book/show/250024.The_City_and_the_Stars) (1956) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.1]
+#### ~[The City and the Stars](https://www.goodreads.com/book/show/250024.The_City_and_the_Stars) (1956) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.1]~
 
 One of Arthur C. Clarke's best novels. It makes _Childhood's End_ seem a bit immature in comparison, and evokes that strange concept of deep space that was prevalent in the 50s and in the early Star Trek series which seems to be out of fashion more recently. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Clarke’s masterful evocation of the far future of humanity, considered his finest novel. _The City and the Stars_ takes place one billion years in the future, in the city of Diaspar. By this time, the Earth is so old that the oceans have gone and humanity has all but left. As far as the people of Diaspar know, they are the only city left on the planet. The city of Diaspar is completely enclosed. Nobody has come in or left the city for as long as anybody can remember, and everybody in Diaspar has an instinctive insular conservatism. The story behind this fear of venturing outside the city tells of a race of ruthless invaders which beat humanity back from the stars to Earth, and then made a deal that humanity could live—if they never left the planet.
 
-#### [The Drowned World](https://www.goodreads.com/book/show/16234584-the-drowned-world) (1963) *by [J. G. Ballard](https://en.wikipedia.org/wiki/J._G._Ballard)* [3.6]
+#### ~[The Drowned World](https://www.goodreads.com/book/show/16234584-the-drowned-world) (1963) *by [J. G. Ballard](https://en.wikipedia.org/wiki/J._G._Ballard)* [3.6]~
 
 This had some very haunting scenes. The last pages, in particular, will stick with me for a while. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -700,7 +700,7 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 > The story, set in a post-apocalyptic world where humanity lives underground and relies on a giant machine to provide their needs, predicted new technologies such as instant messaging, and the Internet. It describes a world in which most of the human population has lost the ability to live on the surface of the Earth. Each individual now lives in isolation below ground in a standard 'cell', with all bodily and spiritual needs met by the omnipotent, global Machine. Travel is permitted but unpopular and rarely necessary. Communication is made via a kind of instant messaging/video conferencing machine with which people conduct their only activity: the sharing of ideas and what passes for knowledge.
 
-#### [The Stand](https://www.goodreads.com/book/show/149267.The_Stand) (1978) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [4.3] 🔥
+#### ~[The Stand](https://www.goodreads.com/book/show/149267.The_Stand) (1978) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [4.3] 🔥~
 
 > This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.
 
@@ -714,7 +714,7 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 > A time storm has devastated the Earth, and only a small fraction of humankind remains. From the rubble, three survivors form an unlikely alliance: a young man, a young woman, and a leopard.
 
-#### [Where Late the Sweet Birds Sang](https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang) (1974) *by [Kate Wilhelm](https://en.wikipedia.org/wiki/Kate_Wilhelm)* [3.9]
+#### ~[Where Late the Sweet Birds Sang](https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang) (1974) *by [Kate Wilhelm](https://en.wikipedia.org/wiki/Kate_Wilhelm)* [3.9]~
 
 > The spellbinding story of an isolated post-holocaust community determined to preserve itself, through a perilous experiment in cloning. Sweeping, dramatic, rich with humanity, and rigorous in its science, _Where Late the Sweet Birds Sang_ is widely regarded as a high point of both humanistic and hard SF, winning SF’s Hugo Award and Locus Award on its first publication.
 
@@ -736,7 +736,7 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 > Felix is an Earth soldier, encased in special body armor designed to withstand Earth's most implacable enemy-a bioengineered, insectoid alien horde. But Felix is also equipped with internal mechanisms that enable him, and his fellow soldiers, to survive battle situations that would destroy a man's mind. This is a remarkable novel of the horror, the courage, and the aftermath of combat--and how the strength of the human spirit can be the greatest armor of all.
 
-#### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.3] 🌟 🔥
+#### ~[Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.3] 🌟 🔥~
 
 This is a quick read, but it has a slow burn; the more times I read this book, and the more I think of it, the better it becomes. This book is one of the most strategically interesting books I have read. At every turn, you can feel Orson Scott Card manipulating you into seeing how brilliant Ender is. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -758,18 +758,18 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
 
 > _Old Man’s War_, _The Last Colony_ and _Zoe’s Tale_ were each nominated for the Hugo Award for Best Novel in their respective years. _Zoe’s Tale_ was additionally nominated for the Andre Norton Award for Best Young Adult Science Fiction/Fantasy. _The Ghost Brigades_ was nominated for the Prometheus Award. _Old Man’s War_ was the winner of the Geffen Award in Israel; _The Last Colony_ the recipient of the Seiun Award in Japan.
 
-#### [Starship Troopers](https://www.goodreads.com/book/show/17214.Starship_Troopers) (1959) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [4.0]
+#### ~[Starship Troopers](https://www.goodreads.com/book/show/17214.Starship_Troopers) (1959) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [4.0]~
 
 > In one of Robert Heinlein’s most controversial bestsellers, a recruit of the future goes through the toughest boot camp in the Universe—and into battle with the Terran Mobile Infantry against mankind’s most frightening enemy.
 
-#### [The Forever War](https://www.goodreads.com/book/show/21611.The_Forever_War) (1974) *by [Joe Haldeman](https://en.wikipedia.org/wiki/Joe_Haldeman)* [4.1]
+#### ~[The Forever War](https://www.goodreads.com/book/show/21611.The_Forever_War) (1974) *by [Joe Haldeman](https://en.wikipedia.org/wiki/Joe_Haldeman)* [4.1]~
 
 > The Earth’s leaders have drawn a line in the interstellar sand—despite the fact that the fierce alien enemy that they would oppose is inscrutable, unconquerable, and very far away. A reluctant conscript drafted into an elite Military unit, Private William Mandella has been propelled through space and time to fight in the distant thousand-year conflict; to perform his duties without rancor and even rise up through military ranks. Pvt. Mandella is willing to do whatever it takes to survive the ordeal and return home. But “home” may be even more terrifying than battle, because, thanks to the time dilation caused by space travel, Mandella is aging months while the Earth he left behind is aging centuries.
 
 
 ### Police Procedural Science Fiction
 
-#### [Lock In](https://www.goodreads.com/book/show/21418013-lock-in) (2014) *by [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)* [3.8]
+#### ~[Lock In](https://www.goodreads.com/book/show/21418013-lock-in) (2014) *by [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)* [3.8]~
 
 > A novel of our near future, from one of the most popular authors in modern SF.
 
@@ -786,7 +786,7 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
 
 _Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots of technical detail regarding the subject matter._
 
-#### [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) (1999) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
+#### ~[Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) (1999) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]~
 
 > _Cryptonomicon_ zooms all over the world, careening conspiratorially back and forth between two time periods—World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, cryptanalyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They’re part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit’s strange workings to Waterhouse. “When we want to sink a convoy, we send out an observation plane first… Of course, to observe is not its real duty—we already know exactly where the convoy is. Its real duty is to be observed… Then, when we come round and sink them, the Germans will not find it suspicious.”
 
@@ -817,7 +817,7 @@ _Fantasy books which contain elements of science fiction. For pure fantasy, see 
 
 > Set aboard a vast starship traveling for generations, _The Book of the Long Sun_ is a masterpiece of science fiction. The series follows the story of Patera Silk, a priest who becomes a prophet as he learns about the nature of his world and the gods he serves.
 
-#### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) (1980-1987) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [3.9]
+#### ~[The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) (1980-1987) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [3.9]~
 
 This is my favorite book. It is science fiction and, to a certain extent, fantasy, but at places reads more like a philosophical tract of a collection of stories. The plot is minimal, but the character of Severian is fascinating; he forgets nothing, but lies to you. As you read along, it becomes clear that earlier chapters were wrong or lacked important details, which heavily contributes to a sense of wonder and enchantment. Or, in my case, aw at Gene Wolfe's writing abilities. Highly suggested. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -834,7 +834,7 @@ This is debatably science fiction. I mention it here because certain elements, l
 
 ### Drama
 
-#### [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks) (2014) *by [David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_%28author%29)* [3.9]
+#### ~[The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks) (2014) *by [David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_%28author%29)* [3.9]~
 
 If you liked Cloud Atlas this is a good read.
 
@@ -874,7 +874,7 @@ A heartbreaking coming of age novel with a speculative, mysterious twist. Defini
 
 > As children, Kathy, Ruth, and Tommy were students at Hailsham, an exclusive boarding school secluded in the English countryside. It was a place of mercurial cliques and mysterious rules where teachers were constantly reminding their charges of how special they were. Now, years later, Kathy is a young woman. Ruth and Tommy have reentered her life, and for the first time she is beginning to look back at their shared past and understand just what it is that makes them special— and how that gift will shape the rest of their time together.
 
-#### [Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [3.9] 🌟 🔥
+#### ~[Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [3.9] 🌟 🔥~
 
 > NAME: Valentine Michael Smith
 > ANCESTRY: Human
@@ -882,20 +882,20 @@ A heartbreaking coming of age novel with a speculative, mysterious twist. Defini
 
 > Here is Heinlein’s masterpiece—the brilliant spectacular and incredibly popular novel that grew from a cult favorite to a bestseller to a classic in a few short years. It is the story of Valentine Michael Smith, the man from Mars who taught humankind grokking and water-sharing. And love.
 
-#### [The Shrinking Man](https://www.goodreads.com/book/show/33549.The_Shrinking_Man) (1956) *by [Richard Matheson](https://en.wikipedia.org/wiki/Richard_Matheson)* [3.8] 🔥
+#### ~[The Shrinking Man](https://www.goodreads.com/book/show/33549.The_Shrinking_Man) (1956) *by [Richard Matheson](https://en.wikipedia.org/wiki/Richard_Matheson)* [3.8] 🔥~
 
 This was pretty good; it's pretty obvious what it is about, and it reads predictably, but the ending is strong enough to make the entire book worth reading. - [@RichardLitt](https://github.com/RichardLitt)
 
 > While on holiday, Scott Carey is exposed to a cloud of radioactive spray shortly after he accidentally ingests insecticide. The radioactivity acts as a catalyst for the bug spray, causing his body to shrink at a rate of approximately 1/7 of an inch per day. A few weeks later, Carey can no longer deny the truth: not only is he losing weight, he is also shorter than he was and deduces, to his dismay, that his body will continue to shrink.
 
-#### [The End of Eternity](https://www.goodreads.com/book/show/509784.The_End_of_Eternity) (1955) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.2]
+#### ~[The End of Eternity](https://www.goodreads.com/book/show/509784.The_End_of_Eternity) (1955) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.2]~
 
 > Andrew Harlan is an Eternal, a man whose job it is to range through past and present Centuries, monitoring and, where necessary, altering Time’s myriad cause-and-effect relationships. But when Harlan meets and falls for a non-Eternal woman, he seeks to use the awesome powers and techniques of the Eternals to twist time for his own purposes, so that he and his love can survive together.
 
 
 ### Time Travel
 
-#### [Behold the Man](https://www.goodreads.com/book/show/60146.Behold_the_Man) (1969) *by [Michael Moorcock](https://en.wikipedia.org/wiki/Michael_Moorcock)* [3.8]
+#### ~[Behold the Man](https://www.goodreads.com/book/show/60146.Behold_the_Man) (1969) *by [Michael Moorcock](https://en.wikipedia.org/wiki/Michael_Moorcock)* [3.8]~
 
 Easily one of the most disrespectful, sacrilegious, memorable and funny books I have read. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -911,7 +911,7 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 
 > _The Dancers at the End of Time_ is a series of science fiction novels and short stories, the setting of which is the End of Time, an era “where entropy is king and the universe has begun collapsing upon itself.” The inhabitants of this era are immortal decadents, who create flights of fancy using power rings which draw on energy devised and stored by their ancestors millions of years prior. Time travel is possible, and throughout the series various points in time are visited and revisited. Space travellers are also common, but most residents of the End of Time find leaving the planet distasteful and clichéd.
 
-#### [The Door Into Summer](https://www.goodreads.com/book/show/348.The_Door_Into_Summer) (1957) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [4.0]
+#### ~[The Door Into Summer](https://www.goodreads.com/book/show/348.The_Door_Into_Summer) (1957) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [4.0]~
 
 > It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan’s greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
 
@@ -923,7 +923,7 @@ A really good story about time travels, their consequences and the famous [Grand
 
 > Here is a fantastic journey that takes you from the past into the near-future—then to the year 300,000 A.D. into a world where a single female creature, the size of a mountain, gives birth to all of society!
 
-#### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] 🌟 🔥
+#### ~[The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] 🌟 🔥~
 
 Worth the read, mostly because it is the first time the words 'time machine' were used, and because the story, while a bit cliched to modern ears, is still good and gripping. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -934,7 +934,7 @@ Worth the read, mostly because it is the first time the words 'time machine' wer
 
 ### Comedy
 
-#### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.20] 🌟 🔥
+#### ~[The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.20] 🌟 🔥~
 
 One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -959,7 +959,7 @@ You will never think about ants the same way again. - [@uraimo](https://github.c
 
 > Simak's "City" is a series of connected stories, a series of legends, myths, and campfire stories told by Dogs about the end of human civilization, centering on the Webster family, who, among their other accomplishments, designed the ships that took Men to the stars and gave Dogs the gift of speech and robots to be their hands.
 
-#### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1] 🌟 🔥
+#### ~[I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1] 🌟 🔥~
 
 > The three laws of Robotics:
 
@@ -987,7 +987,7 @@ I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly 
 
 > Contents: _The Nine Billion Names of God_ (1953), _An Ape About the House_ (1962), _Green Fingers_ (1956), _Trouble with the Natives_ (1951), _Into the Comet_ (1960), _No Morning After_ (1954), _‘If I Forget Thee, Oh Earth…’_ (1951), _Who’s There?_ (1958), _All the Time in the World_ (1952), _Hide and Seek_ (1949), _Robin Hood, F.R.S._ (1956), _The Fires Within_ (1949), _The Forgotten Enemy_ (1953), _The Reluctant Orchid_ (1956), _Encounter at Dawn_ (1953), _Security Check_ (1957), _Feathered Friend_ (1957), _The Sentinel_ (1951)
 
-#### [Stories of Your Life and Others](https://www.goodreads.com/book/show/729760.Stories_of_Your_Life_and_Others) (2002) *by [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)* [4.4]
+#### ~[Stories of Your Life and Others](https://www.goodreads.com/book/show/729760.Stories_of_Your_Life_and_Others) (2002) *by [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)* [4.4]~
 
 What amazes me most about Ted Chiang’s stories is their *richness*—the level of detail which the author managed to weave into the stories without having them turn into fluff. Artfully executed, uniformly good through excellent—which is by no means par for the course in single-author collections! Reminds me the most of Greg Egan’s _Axiomatic_ collection, except Chiang manages to keep his characters optimistic. - [@mihailim](https://github.com/mihailim)
 
@@ -997,7 +997,7 @@ What amazes me most about Ted Chiang’s stories is their *richness*—the level
 
 > Contents: _Tower of Babylon_ (1990), _Understand_ (1991), _Division by Zero_ (1991), _Story of Your Life_ (1998), _Seventy-Two Letters_ (2000), _The Evolution of Human Science_ (2000), _Hell Is the Absence of God_ (2001), _Liking What You See: A Documentary_ (2002)
 
-#### [The Illustrated Man](https://www.goodreads.com/book/show/24830.The_Illustrated_Man) (1951) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.1] 🌟
+#### ~[The Illustrated Man](https://www.goodreads.com/book/show/24830.The_Illustrated_Man) (1951) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.1] 🌟~
 
 > That _The Illustrated Man_ has remained in print since being published in 1951 is fair testimony to the universal appeal of Ray Bradbury’s work. Only his second collection (the first was _Dark Carnival_, later reworked into _The October Country_), it is a marvelous, if mostly dark, quilt of science fiction, fantasy, and horror. In an ingenious framework to open and close the book, Bradbury presents himself as a nameless narrator who meets the Illustrated Man—a wanderer whose entire body is a living canvas of exotic tattoos. What’s even more remarkable, and increasingly disturbing, is that the illustrations are themselves magically alive, and each proceeds to unfold its own story, such as “The Veldt,” wherein rowdy children take a game of virtual reality way over the edge. Or “Kaleidoscope,” a heartbreaking portrait of stranded astronauts about to reenter our atmosphere—without the benefit of a spaceship. Or “Zero Hour,” in which invading aliens have discovered a most logical ally—our own children. Even though most were written in the 1940s and 1950s, these 18 classic stories will be just as chillingly effective 50 years from now. —Stanley Wiater
 
@@ -1011,7 +1011,7 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 ## Movies
 
-#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
+#### ~[2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]~
 
 Categories: `space` `ai` `singularity`<br>
 Director: _Stanley Kubrick_
@@ -1020,7 +1020,7 @@ Cinematically, this movie is a masterpiece. This is one of the few films on this
 
 > Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
-#### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]
+#### ~[A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]~
 
 Categories: `dystopia`
 
@@ -1032,7 +1032,7 @@ Categories: `dystopia` `cyberpunk`
 
 > An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
 
-#### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
+#### ~[Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]~
 
 Categories: `anime` `dystopia` `thriller`
 
@@ -1049,7 +1049,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 > When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.
 
-#### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
+#### ~[Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]~
 
 Categories: `dystopia` `ai` `cyberpunk` `singularity`<br>
 Director: _Ridley Scott_
@@ -1058,7 +1058,7 @@ Very few films can stand up to as many rewatches as this film can - there are la
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
-#### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
+#### ~[Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]~
 
 Categories: `dystopia` `police`
 
@@ -1082,7 +1082,7 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 > In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.
 
-#### [Children of Men](http://www.imdb.com/title/tt0206634/) (2006) [7.9]
+#### ~[Children of Men](http://www.imdb.com/title/tt0206634/) (2006) [7.9]~
 
 Categories: `dystopia` `drama`
 
@@ -1096,7 +1096,7 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
-#### [Contact](http://www.imdb.com/title/tt0118884/) (1997) [7.4]
+#### ~[Contact](http://www.imdb.com/title/tt0118884/) (1997) [7.4]~
 
 Categories: `aliens` `space` `drama` `mystery` `thriller`<br>
 Director: _Robert Zemeckis_<br>
@@ -1114,7 +1114,7 @@ Excellent neo-noir about a man trapped in a city permanently in nighttime. He su
 
 > A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun.
 
-#### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
+#### ~[District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]~
 
 Categories: `aliens` `thriller`<br>
 Director: _Neill Blomkamp_<br>
@@ -1130,7 +1130,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 > An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.
 
-#### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
+#### ~[Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]~
 
 Categories: `space` `aliens`<br>
 Director: _David Lynch_
@@ -1157,7 +1157,7 @@ I thought it was great, and I was a bit anxious about there being so many scenes
 
 > Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
 
-#### [Europa Report](http://www.imdb.com/title/tt2051879/) (2013) [6.5]
+#### ~[Europa Report](http://www.imdb.com/title/tt2051879/) (2013) [6.5]~
 
 Categories: `space`
 
@@ -1173,7 +1173,7 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 > A young programmer is selected to participate in a breakthrough experiment in artificial intelligence by evaluating the human qualities of a breathtaking female A.I.
 
-#### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
+#### ~[Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]~
 
 Categories: `comedy` `space` `aliens`
 
@@ -1181,7 +1181,7 @@ If you've heard of Star Trek, and like comedy, this is for you - the entire film
 
 > The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
 
-#### [Gattaca](http://www.imdb.com/title/tt0119177/) (1997) [7.8]
+#### ~[Gattaca](http://www.imdb.com/title/tt0119177/) (1997) [7.8]~
 
 Categories: `biopunk` `space`
 
@@ -1189,7 +1189,7 @@ This film gets more relevant every year. Slow at times, the questions it raises 
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
-#### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]
+#### ~[Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]~
 
 Categories: `anime` `ai` `police`
 
@@ -1201,7 +1201,7 @@ Categories: `apocalypse` `aliens` `action`
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
 
-#### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
+#### ~[Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]~
 
 Categories: `cyberpunk` `police` `thriller`
 
@@ -1225,7 +1225,7 @@ Categories: `cyberpunk`
 
 > A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.
 
-#### [Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]
+#### ~[Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]~
 
 Categories: `cyberpunk`
 
@@ -1233,7 +1233,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 > A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
 
-#### [Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]
+#### ~[Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]~
 
 Categories: `space`
 
@@ -1251,7 +1251,7 @@ This film inspired Twelve Monkeys, but is more notable for being one of the earl
 
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world’s fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
-#### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
+#### ~[Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]~
 
 Categories: `apocalypse`
 
@@ -1259,7 +1259,7 @@ This is the kind of film that sells out art houses when someone finds an early r
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city’s mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
-#### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
+#### ~[Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]~
 
 Categories: `ai` `police`
 
@@ -1267,7 +1267,7 @@ Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
-#### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
+#### ~[Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]~
 
 Categories: `space` `drama`
 
@@ -1329,7 +1329,7 @@ Categories: `apocalypse` `action`
 
 > Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.
 
-#### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
+#### ~[Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]~
 
 Categories: `space` `drama`<br>
 Director: _Andrei Tarkovsky_
@@ -1371,7 +1371,7 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
 
 > A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
 
-#### [The Fifth Element](http://www.imdb.com/title/tt0119116/) (1997) [7.6]
+#### ~[The Fifth Element](http://www.imdb.com/title/tt0119116/) (1997) [7.6]~
 
 Categories: `space` `action`
 
@@ -1387,17 +1387,17 @@ I rather liked this film; Steve Buscemi's acting abilities brings a poorly-writt
 
 > Lincoln Six-Echo is a resident of a seemingly Utopian but contained facility in the year 2019. Like all of the inhabitants of this carefully controlled environment, Lincoln hopes to be chosen to go to the "The Island" - reportedly the last uncontaminated spot on the planet. But Lincoln soon discovers that everything about his existence is a lie. He and all of the other inhabitants of the facility are actually human clones. Lincoln makes a daring escape with a beautiful fellow resident named Jordan Two-Delta. Relentlessly pursued by the forces of the sinister institute that once housed them, Lincoln and Jordan engage in a race for their lives to literally meet their makers.
 
-#### [The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]
+#### ~[The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]~
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
 
-#### [The Martian](http://www.imdb.com/title/tt3659388/) (2015) [8.2]
+#### ~[The Martian](http://www.imdb.com/title/tt3659388/) (2015) [8.2]~
 
 This is a fairly accurate representation of the awesome book, but it focuses much more on Watney's personality than on the science (which is a given, as we can actually see Watney in this, as opposed to just read his logs in the book). The space shots were incredibly well done, and one scene with a ribbon like an umbilical chord floating in zero g - absolutely beautiful. This film had great actors, marvelously cast. And there's even a reference to Glorfindel at the council of Elrond; I don't think I've laughed that hard in a theatre in years. Loved it. - [@RichardLitt](https://github.com/RichardLitt)
 
 > During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.
 
-#### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
+#### ~[The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]~
 
 Categories: `ai` `action` `apocalypse` `singularity`
 
@@ -1425,13 +1425,13 @@ A love story between a woman and her husband uploaded into a computer. What make
 
 > A scientist’s drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
-#### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
+#### ~[Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]~
 
 Categories: `time travel` `action`
 
 > In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
-#### [Vanilla Sky](http://www.imdb.com/title/tt0259711/) (2001) [6.9]
+#### ~[Vanilla Sky](http://www.imdb.com/title/tt0259711/) (2001) [6.9]~
 
 Categories: `drama` `romance`
 
