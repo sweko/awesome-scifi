@@ -68,7 +68,7 @@ Accelerando is an excellent exploration of Posthumanism. It's my go to recommend
 >
 > For something is systemically dismantling the nine planets of the solar system. Something beyond human comprehension. Something that has no use for biological life in any form.
 
-#### [Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) *by [Samuel R. Delany](https://en.wikipedia.org/wiki/Samuel_R._Delany)* [3.8]
+#### ~[Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) *by [Samuel R. Delany](https://en.wikipedia.org/wiki/Samuel_R._Delany)* [3.8]~
 
 This intense linguistic thriller will change the way you think about language. - [@helderroem](https://github.com/helderroem)
 
@@ -94,13 +94,13 @@ Books:
 
 > Barsoom is planet Mars from American Edgar Rice Burroughs. First serialized as Under the Moons of Mars in 1912, published as A Princess of Mars in 1917. Dying Mars was based on outdated scientific ideas of canals. The savage, frontier world has honor, noble sacrifice and constant struggle, where martial prowess is paramount and races fight over dwindling resources.
 
-#### [Childhood’s End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
+#### ~[Childhood’s End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]~
 
 This book is interesting for its view of what a golden age of mankind would look like, and what would the shortcomings of that be. It also has a very interesting take on mass psychology - I don't want to give away too much, but the Overlords are a nifty bunch. This is a good early Clarke, and has two of his favorite themes; the first that remote work will be possible with technology, and the second that any sufficiently advanced technology is indistinguishable from magic. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Without warning, giant silver ships from deep space appear in the skies above every major city on Earth. Manned by the Overlords, in fifty years, they eliminate ignorance, disease, and poverty. Then this golden age ends—and then the age of Mankind begins…
 
-#### [Cities in Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight) (1970) *by [James Blish](https://en.wikipedia.org/wiki/James_Blish)* [4.0]
+#### ~[Cities in Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight) (1970) *by [James Blish](https://en.wikipedia.org/wiki/James_Blish)* [4.0]~
 
 This is a long book, but absolutely fantastic. It redefined for me the scale at which science fiction was possible, especially given the human elements are very fleshed out (as opposed to other massive space epics, like Olaf Stapledon's 'Last and First Men'). A brilliant look at the future, going off of only two small changes - what if we had drugs to defeat death, and cities could fly. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -138,7 +138,7 @@ A series comprised (as of late 2015) of five full-length novels with a sixth one
 
 > Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, "The Scopuli," they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.
 
-#### [Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] 🌟
+#### ~[Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] 🌟~
 
 This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
 
@@ -146,19 +146,19 @@ This book will teach you to stretch your imagination and see things in a differe
 
 > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 
-#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)* [4.0] 🌟 🔥
+#### ~[Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)* [4.0] 🌟 🔥~
 
 This book is often given to high school students, but stands up well as an adult read. I think the best part about it is what Charlie does once he starts being intelligent; he suddenly likes art and making things and scientific theory. I think the altruism and openness of that time shows that the experiment, such as it was, didn't change everything. It's fun to think about. Also, this book made me cry the first time I read it. I was 25. - [@RichardLitt](https://github.com/RichardLitt)
 
 > With more than five million copies sold, _Flowers for Algernon_ is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie’s intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance—until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
 
-#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.0] 🌟 🔥
+#### ~[Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.0] 🌟 🔥~
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
 
 > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 
-#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) *by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)* [3.7] 🌟 🔥
+#### ~[Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) *by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)* [3.7] 🌟 🔥~
 
 Archetypal tale of mad science with the theme of 'how far can Science go' that arguably spawned the modern genre of Science Fiction. - [@katamaritaco](https://github.com/katamaritaco)
 
@@ -196,51 +196,51 @@ This book has a few beautiful passages. It deals mainly with the ethics of using
 
 > The discovery of another habitable world might spell salvation to the three bitterly competing power blocs of the resource-starved 21st century; but when their representatives arrive on Jem, with its multiple intelligent species, they discover instead the perfect situation into which to export their rivalries. Subtitled, with savage irony, “_The Making of a Utopia_”, Jem is one of Frederik Pohl’s most powerful novels.
 
-#### [Lord of Light](https://www.goodreads.com/book/show/13821.Lord_of_Light) (1967) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.1]
+#### ~[Lord of Light](https://www.goodreads.com/book/show/13821.Lord_of_Light) (1967) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.1]~
 
 This was like if Hermann Hesse decided he was tired of writing Steppenwolf and Siddhartha and wanted to do something interesting for a change. What a weird book. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
 
-#### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
+#### ~[Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]~
 
 This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
 
 > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
 
-#### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) (1972) *by [Arkady Strugatsky & Boris Strugatsky](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)* [4.2]
+#### ~[Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) (1972) *by [Arkady Strugatsky & Boris Strugatsky](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)* [4.2]~
 
 Twitter user: One of the best books I have ever read.
 
 > Red Schuhart is a stalker, one of those strange misfits compelled to venture illegally into the Zone and collect the strange artifacts that the alien visitors left scattered there. His whole life, even the nature of his daughter, is determined by the Zone.
 
-#### [Solaris](https://www.goodreads.com/book/show/95558.Solaris) (1961) *by [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)* [3.9] 🌟
+#### ~[Solaris](https://www.goodreads.com/book/show/95558.Solaris) (1961) *by [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)* [3.9] 🌟~
 
 > A classic work of science fiction by renowned Polish novelist and satirist Stanisław Lem.
 
 > When Kris Kelvin arrives at the planet Solaris to study the ocean that covers its surface, he finds a painful, hitherto unconscious memory embodied in the living physical likeness of a long-dead lover. Others examining the planet, Kelvin learns, are plagued with their own repressed and newly corporeal memories. The Solaris ocean may be a massive brain that creates these incarnate memories, though its purpose in doing so is unknown, forcing the scientists to shift the focus of their quest and wonder if they can truly understand the universe without first understanding what lies within their hearts.
 
-#### [Space Trilogy: Out of the Silent Planet, Perelandra, and That Hideous Strength](https://www.goodreads.com/book/show/30628.Out_of_the_Silent_Planet_Perelandra_That_Hideous_Strength?ac=1) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.1]
+#### ~[Space Trilogy: Out of the Silent Planet, Perelandra, and That Hideous Strength](https://www.goodreads.com/book/show/30628.Out_of_the_Silent_Planet_Perelandra_That_Hideous_Strength?ac=1) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.1]~
 
-##### [Out of the Silent Planet](https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet) (1938) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [3.9]
+##### ~[Out of the Silent Planet](https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet) (1938) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [3.9]~
 
 A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
 
-##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.0]
+##### ~[Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.0]~
 
 This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The second novel in Lewis’s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
 
-##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) (1945) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [3.9]
+##### ~[That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) (1945) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [3.9]~
 
 One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
-#### [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.0]
+#### ~[Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.0]~
 
 I had been putting off reading this book for years, after reading _Ender's Game_ and not knowing wanting to belittle it with a bad sequel (like I thought _Ender's Shadow_ had been). I regret that immensely, having now read this book; it is deep, insightful, and brilliantly written. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -248,13 +248,13 @@ I had been putting off reading this book for years, after reading _Ender's Game_
 
 > Now long years later, a second alien race has been discovered, but again the aliens’ ways are strange and frightening…again, humans die. And it is only the Speaker for the Dead, who is also Ender Wiggin the Xenocide, who has the courage to confront the mystery…and the truth.
 
-#### [Spin](https://www.goodreads.com/book/show/910863.Spin) (2005) *by [Robert Charles Wilson](https://en.wikipedia.org/wiki/Robert_Charles_Wilson)* [4.0]
+#### ~[Spin](https://www.goodreads.com/book/show/910863.Spin) (2005) *by [Robert Charles Wilson](https://en.wikipedia.org/wiki/Robert_Charles_Wilson)* [4.0]~
 
 > One night in October when he was ten years old, Tyler Dupree stood in his back yard and watched the stars go out. They all flared into brilliance at once, then disappeared, replaced by a flat, empty black barrier. He and his best friends, Jason and Diane Lawton, had seen what became known as the Big Blackout. It would shape their lives.
 
 > Life on Earth is about to get much, much stranger.
 
-#### [Stand on Zanzibar](https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar) (1968) *by [John Brunner](https://en.wikipedia.org/wiki/John_Brunner_%28novelist%29)* [4.0]
+#### ~[Stand on Zanzibar](https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar) (1968) *by [John Brunner](https://en.wikipedia.org/wiki/John_Brunner_%28novelist%29)* [4.0]~
 
 This book was written about 2010, and what the world would be like when the world is over populated. It is still very pertinent today, especially given the style of writing, which seems to have too much information packed in than needed. 'Muckers', the idea of people who go crazy without reason due to overcrowdedness, are a really interesting concept given the rise in anti-terrorist rhetoric in recent years. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -266,7 +266,7 @@ If you're going to read one Science Fiction book to get a broader perspective on
 
 > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon’s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
 
-#### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
+#### ~[The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]~
 
 This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -274,7 +274,7 @@ This is one of Arthur C. Clarke's novels that is less about space and more about
 
 > Walter Franklin, once a space engineer, now works on a submarine patrol. This novel tells the story of his adventures, including Franklin’s capture of an enormous kraken at 12,000 feet under the sea; his search for a monstrous sea serpent; and the thrilling rescue of a sunken submarine-all set against the backdrop of a futuristic world that’s both imaginative and believable.
 
-#### [The Fifth Head of Cerberus](https://www.goodreads.com/book/show/845501.The_Fifth_Head_of_Cerberus) (1972) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
+#### ~[The Fifth Head of Cerberus](https://www.goodreads.com/book/show/845501.The_Fifth_Head_of_Cerberus) (1972) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]~
 
 This is an incredible book. Absolutely incredible. The first section, about a son of a scientist, is a great example of Wolfe's ability to make the future sound like the Victorian past, and to add decay to what, to our eyes, seems incredibly futuristic. The story about the traveler and the aborigines on Saint Croix is something I think about a lot - "old men think long thoughts", in particular, is a thought that I love, especially given its context. Gene Wolfe also uses the epistolary novel technique incredibly well in the third story. But the best part is how you come to realize that each of these stories is intertwined with the others, subtly. Amazing storytelling. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -282,7 +282,7 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
 > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man’s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
 
-#### [The Gods Themselves](https://www.goodreads.com/book/show/41821.The_Gods_Themselves) (1972) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1]
+#### ~[The Gods Themselves](https://www.goodreads.com/book/show/41821.The_Gods_Themselves) (1972) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1]~
 
 > In the twenty-second century Earth obtains limitless, free energy from a source science little understands: an exchange between Earth and a parallel universe, using a process devised by the aliens. But even free energy has a price. The transference process itself will eventually lead to the destruction of Earth’s Sun—and of Earth itself.
 
@@ -296,13 +296,13 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
 > _The Golden Age_ is just the beginning of Phaethon’s story, which continues in _The Phoenix Exultant_.
 
-#### [The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man) (1897) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.6] 🌟 🔥
+#### ~[The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man) (1897) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.6] 🌟 🔥~
 
 This is more of a read about what happens when you are outside the law than anything else. Fascinating, and kind of reads like Sherlock Holmes at times. - [@RichardLitt](https://github.com/RichardLitt)
 
 > This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.
 
-#### [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness) (1969) *by [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.1]
+#### ~[The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness) (1969) *by [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.1]~
 
 Ursula Le Guin is an amazing writer, and this is one of her seminal works. It explores sexuality and humanity in ways that I didn't know were possible. I loved it. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -310,26 +310,26 @@ Ursula Le Guin is an amazing writer, and this is one of her seminal works. It ex
 
 > Embracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.
 
-#### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*
+#### ~[Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*~
 
 Although each part can be read independently, the whole trilogy has a consistent story line which happens in a very huge time-space context and the first just a beginning. The later two are especially much more hardcore and dramatical, however, gloomy as well. While the first one got the Hugo Award, I'd like to say that it really worth a try for the whole trilogy, don't miss the later two.  - [@cp4](https://github.com/cp4)
 
-##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
+##### ~[The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]~
 
 This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well. - [@sylvarant](https://github.com/sylvarant)
 
 > Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
-##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
+##### ~[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]~
 
 > In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
 
-##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]
+##### ~[Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]~
 
 > Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
 
 
-#### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] 🌟 🔥
+#### ~[The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] 🌟 🔥~
 
 This is always fun; it's a classic, and it is fun remembering what science fiction was like before there were tropes. - [@RichardLitt](https://github.com/RichardLitt)
 
