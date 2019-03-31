@@ -110,7 +110,7 @@ This is a long book, but absolutely fantastic. It redefined for me the scale at 
 >
 > In the first novel, _They Shall Have Stars_, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In _A Life for the Stars_, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In _Earthman, Come Home_, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, _The Triumph of Time_, history repeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious and haunting vision of our world and its limits, _Cities in Flight_ marks the return to print of one of science fiction’s most inimitable writers.
 
-#### [Contact](https://www.goodreads.com/book/show/61666.Contact) (1985) *by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)* [4.1]
+#### ~[Contact](https://www.goodreads.com/book/show/61666.Contact) (1985) *by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)* [4.1]~
 
 Based on Sagan's own studies as an astrophysicist and philosopher, Contact provides a possible glimpse of the world's reaction to extraterrestrial life - [@augustopedro](https://github.com/augustopedro)
 
@@ -122,7 +122,7 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 > Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation.
 
-#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)* [4.1] 🌟 🔥
+#### ~[Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)* [4.1] 🌟 🔥~
 
 I think what is most fascinating about Dune isn't that it is so commonly read, but the ubiquity with which it is referenced. Once you read this, you start seeing Dune quotes everywhere. Dune is monumental in scope, and the cautionary tone in which it was written - this is what happens when you put faith in a single person trained scientifically - almost completely backfires in an amazing story of heroism, revenge, and reconciliation. A book worth reading multiple times. Of course, it is also a series - the first stands alone, and I haven't read beyond the first two. There almost isn't a need. Dune alone is that good. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -294,7 +294,7 @@ This book was written about 2010, and what the world would be like when the worl
 
 > Norman Niblock House is a rising executive at General Technics, one of a few all-powerful corporations. His work is leading General Technics to the forefront of global domination, both in the marketplace and politically—it’s about to take over a country in Africa. Donald Hogan is his roommate, a seemingly sheepish bookworm. But Hogan is a spy, and he’s about to discover a breakthrough in genetic engineering that will change the world… and kill him. These two men’s lives weave through one of science fiction’s most praised novels. Written in a way that echoes John Dos Passos’ _U.S.A._ trilogy, _Stand on Zanzibar_ is a cross-section of a world overpopulated by the billions. Where society is squeezed into hive-living madness by god-like mega computers, mass-marketed psychedelic drugs, and mundane uses of genetic engineering. Though written in 1968, it speaks of 2010, and is frighteningly prescient and intensely powerful.
 
-#### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) (1937) *by [Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)* [3.9] 🌟
+#### ~[Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) (1937) *by [Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)* [3.9] 🌟~
 
 If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -369,7 +369,7 @@ This is always fun; it's a classic, and it is fun remembering what science ficti
 
 > Man had not yet learned to fly when H. G. Wells conceived this story of a Martian attack on England. Giant cylinders crash to Earth, disgorging huge, unearthly creatures armed with heat-rays and fighting machines. Amid the boundless destruction they cause, it looks as if the end of the world has come.
 
-#### [The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) (2014) *by [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers_(author))* [4.17]
+#### ~[The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) (2014) *by [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers_(author))* [4.17]~
 
 Funny, touching, and full of unexpected details. - [@lgierth](https://github.com/lgierth)
 
@@ -377,17 +377,17 @@ Funny, touching, and full of unexpected details. - [@lgierth](https://github.com
 >
 > Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years. But risking her life wasn’t part of the plan. In the far reaches of deep space, the tiny Wayfarer crew will confront a host of unexpected mishaps and thrilling adventures that force them to depend on each other. To survive, Rosemary’s got to learn how to rely on this assortment of oddballs—an experience that teaches her about love and trust, and that having a family isn’t necessarily the worst thing in the universe.
 
-#### [Xenogenesis Trilogy](https://www.goodreads.com/book/show/39334343-lilith-s-brood) (1987-1989) *by [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)*
+#### ~[Xenogenesis Trilogy](https://www.goodreads.com/book/show/39334343-lilith-s-brood) (1987-1989) *by [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)*~
 
 Very interesting exploration of what happens when aliens arrive on earth, after the planet has been ravaged by war, with their own ideas of a path forward. Humans must learn to coexist with the Oankali, genetic colonizers of the cosmos, and confront what this means for their future — deciding whether to give up an essential part of their identity in order to survive. I enjoyed the first book the most, for the worldbuilding and the way it introduces the Oankali and key concepts, but the series has a satisfying arc so I think it's worth reading all three books. - [@bschlagel](https://github.com/bschlagel)
 
-##### [Dawn](https://www.goodreads.com/book/show/36694961-dawn) (1987) [4.1]
+##### ~[Dawn](https://www.goodreads.com/book/show/36694961-dawn) (1987) [4.1]~
 
 > Lilith Iyapo has just lost her husband and son when atomic fire consumes Earth—the last stage of the planet’s final war. Hundreds of years later Lilith awakes, deep in the hold of a massive alien spacecraft piloted by the Oankali—who arrived just in time to save humanity from extinction. They have kept Lilith and other survivors asleep for centuries, as they learned whatever they could about Earth. Now it is time for Lilith to lead them back to her home world, but life among the Oankali on the newly resettled planet will be nothing like it was before.
 >
 > The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet’s untamed wilderness. But their children will not be human. Not exactly.
 
-##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
+##### ~[Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]~
 
 > In this sequel to Dawn, Lilith Iyapo has given birth to what looks like a normal human boy named Akin. But Akin actually has five parents: a male and female human, a male and female Oankali, and a sexless Ooloi. The Oankali and Ooloi are part of an alien race that rescued humanity from a devastating nuclear war, but the price they exact is a high one the aliens are compelled to genetically merge their species with other races, drastically altering both in the process.
 >
@@ -395,7 +395,7 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 >
 > When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again.
 
-##### [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
+##### ~[Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]~
 
 > Child of two species, but part of neither, a new being must find his way.
 >
@@ -889,7 +889,7 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
 
 _Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots of technical detail regarding the subject matter._
 
-#### ~[Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) (1999) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]~
+#### [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) (1999) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
 
 > _Cryptonomicon_ zooms all over the world, careening conspiratorially back and forth between two time periods—World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, cryptanalyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They’re part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit’s strange workings to Waterhouse. “When we want to sink a convoy, we send out an observation plane first… Of course, to observe is not its real duty—we already know exactly where the convoy is. Its real duty is to be observed… Then, when we come round and sink them, the Germans will not find it suspicious.”
 >
@@ -952,7 +952,7 @@ If you liked Cloud Atlas this is a good read.
 
 _Novels which focus on the near-future unintended consequences of biotechnology revolutions._
 
-#### [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) (2009) *by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi)* [3.7]
+#### ~[The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) (2009) *by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi)* [3.7]~
 
 > Anderson Lake is a company man, AgriGen’s Calorie Man in Thailand. Under cover as a factory manager, Anderson combs Bangkok’s street markets in search of foodstuffs thought to be extinct, hoping to reap the bounty of history’s lost calories. There, he encounters Emiko…
 >
@@ -1020,7 +1020,7 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 >
 > They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
 
-#### [Future Times Three](https://www.goodreads.com/book/show/2509242.Future_Times_Three) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [3.8]
+#### ~[Future Times Three](https://www.goodreads.com/book/show/2509242.Future_Times_Three) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [3.8]~
 
 A really good story about time travels, their consequences and the famous [Grandfather paradox](https://en.wikipedia.org/wiki/Grandfather_paradox). - [@Gibet](https://github.com/Gibet)
 
@@ -1705,7 +1705,7 @@ Categories: `adventure` `drama` `family`
 
 > The further adventures of the time traveling alien adventurer and his companions.
 
-#### [Dune](http://www.imdb.com/title/tt0142032/) (2000) [7.1]
+#### ~[Dune](http://www.imdb.com/title/tt0142032/) (2000) [7.1]~
 
 Categories: `adventure` `drama` `fantasy`
 
