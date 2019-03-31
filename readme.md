@@ -1097,7 +1097,7 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 > Contents: _The Infinite Assassin_ (1991), _The Hundred Light-Year Diary_ (1992), _Eugene_ (1990), _The Caress_ (1990), _Blood Sisters_ (1991), _Axiomatic_ (1990), _The Safe-Deposit Box_ (1990), _Seeing_ (1995), _A Kidnapping_ (1995), _Learning to Be Me_ (1990), _The Moat_ (1991), _The Walk_ (1992), _The Cutie_ (1989), _Into Darkness_ (1992), _Appropriate Love_ (1991), _The Moral Virologist_ (1990), _Closer_ (1992), _Unstable Orbits in the Space of Lies_ (1992)
 
-#### [City](https://www.goodreads.com/book/show/222093.City) (1952) *by [Clifford D. Simak](https://en.wikipedia.org/wiki/Clifford_D._Simak)* [4.1]
+#### ~[City](https://www.goodreads.com/book/show/222093.City) (1952) *by [Clifford D. Simak](https://en.wikipedia.org/wiki/Clifford_D._Simak)* [4.1]~
 
 You will never think about ants the same way again. - [@uraimo](https://github.com/uraimo)
 
