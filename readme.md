@@ -8,13 +8,13 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
-
 ## Contents
 
 - [Novels](#novels)
 	- [Science Fiction](#science-fiction)
 	- [Hard Science Fiction](#hard-science-fiction)
 	- [Cyberpunk](#cyberpunk)
+	- [Utopia](#Utopia)
 	- [Dystopia](#dystopia)
 	- [Space Opera](#space-opera)
 	- [Post Apocalyptic](#post-apocalyptic)
@@ -35,7 +35,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 - [Comic Books](#comic-books)
 - [Links](#links)
 
-
 ## Novels
 
 🌟 means that it's a classic.
@@ -43,7 +42,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 🔥 means that it has more than 100 000 ratings on Goodreads.
 
 *The `[number]` at the end is the rounded version of the rating on Goodreads.*
-
 
 ### Science Fiction
 
@@ -56,7 +54,6 @@ Like Accelerando, this series is an excellent exploration of posthumanism.  It a
 > Bob wakes up a century later to find that corpsicles have been declared to be without rights, and he is now the property of the state. He has been uploaded into computer hardware and is slated to be the controlling AI in an interstellar probe looking for habitable planets. The stakes are high: no less than the first claim to entire worlds. If he declines the honor, he'll be switched off, and they'll try again with someone else. If he accepts, he becomes a prime target. There are at least three other countries trying to get their own probes launched first, and they play dirty.
 >
 > The safest place for Bob is in space, heading away from Earth at top speed. Or so he thinks. Because the universe is full of nasties, and trespassers make them mad - very mad.
-
 
 #### [Accelerando](http://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
@@ -76,7 +73,7 @@ This intense linguistic thriller will change the way you think about language. -
 
 > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) *by [Edgar Rice Burroughs ](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)* [3.8] 🌟
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)* [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -112,9 +109,23 @@ This is a long book, but absolutely fantastic. It redefined for me the scale at 
 
 #### ~[Contact](https://www.goodreads.com/book/show/61666.Contact) (1985) *by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)* [4.1]~
 
-Based on Sagan's own studies as an astrophysicist and philosopher, Contact provides a possible glimpse of the world's reaction to extraterrestrial life - [@augustopedro](https://github.com/augustopedro)
+Based on Sagan's own studies as an astrophysicist and philosopher, Contact provides a possible glimpse of the world's reaction to extraterrestrial life - @augustopedro
 
 > At first it seemed impossible - a radio signal that came not from Earth but from far beyond the nearest stars. But then the signal was translated, and what had been impossible became terrifying. For the signal contains the information to build a Machine that can travel to the stars. A Machine that can take a human to meet those that sent the message. They are eager to meet us: they have been watching and waiting for a long time. And now they will judge.
+
+#### [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) (2016) *by [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)* [4.1] 🔥
+
+An interesting take on the possibility of the multiverse, Schrödinger's cat, and how every choice, big or small, has led to this exact moment. - [@thedeany](https://github.com/thedeany)
+
+> Jason Dessen is walking home through the chilly Chicago streets one night, looking forward to a quiet evening in front of the fireplace with his wife, Daniela, and their son, Charlie—when his reality shatters.
+>
+> It starts with a man in a mask kidnapping him at gunpoint, for reasons Jason can’t begin to fathom—what would anyone want with an ordinary physics professor?—and grows even more terrifying from there, as Jason’s abductor injects him with some unknown drug and watches while he loses consciousness.
+>
+> When Jason awakes, he’s in a lab, strapped to a gurney—and a man he’s never seen before is cheerily telling him “welcome back!”
+>
+> Jason soon learns that in this world he’s woken up to, his house is not his house. His wife is not his wife. His son was never born.
+>
+> And someone is hunting him.
 
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) (1976) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.0]
 
@@ -138,9 +149,11 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 >
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
-#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2015) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
+#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2019) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
 
-A series comprised (as of late 2015) of five full-length novels with a sixth one in the works and a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
+A series comprised (as of 2019) of eight full-length novels with a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
+
+The books are real page turners with its mix of high politics, space battles, ancient mysteries, day-to-day grit and cultural differences, and the world Expanse starts out with really changes over the course of the books. You may find book four (Cibola Burn) a bit slow, but keep at it, subsequent books really pay dividends. - [@nahkampf](https://github.com/nahkampf)
 
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 >
@@ -212,13 +225,14 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 #### [The Murderbot Diaries](https://www.goodreads.com/series/191900) (2017-) *by [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)* [4.3]
 
-The Murderbot Diaries is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series. If you enjoy Ann Leckie's Imperial Raadch series or Iain M. Banks' Culture novels, this series of novellas might be for you. They are light, fun to read but yet still engaging enough to get your synapses fired up. - [@oschrenk](https://github.com/oschrenk)
+_The Murderbot Diaries_ is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series. If you enjoy Ann Leckie's _Imperial Raadch_ series or Iain M. Banks' _Culture_ novels, this series of novellas might be for you. They are light, fun to read but yet still engaging enough to get your synapses fired up. - [@oschrenk](https://github.com/oschrenk)
 
 Books:
 
-- ~[All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) [4.15]~
-- ~[Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition) [4.33]~
-- [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) [4.41]
+- ~[All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) [4.2]~
+- ~[Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition) [4.3]~
+- [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) [4.4]
+- [Exit Strategy](https://www.goodreads.com/book/show/35519109-exit-strategy) [4.4]
 
 > In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.
 >
@@ -235,6 +249,12 @@ All of Asher's *Polity* novels are chock full of amazing technology, vibrant cha
 > The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
 >
 > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity.  He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
+
+#### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) *by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)* [4.3]
+
+Actually four books by two authors. It was made into a TV series but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
+
+> ...three million years from Earth, marooned in the wrong dimension of the wrong reality, and down to his last two cigarettes. 
 
 #### ~[Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]~
 
@@ -362,7 +382,6 @@ This book is not just filled to the brim with interesting and novel ideas about 
 
 > Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
 
-
 #### ~[The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] 🌟 🔥~
 
 This is always fun; it's a classic, and it is fun remembering what science fiction was like before there were tropes. - [@RichardLitt](https://github.com/RichardLitt)
@@ -403,6 +422,11 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 >
 > Jodahs is supposed to be just another hybrid of human and Oankali, but as he begins his transformation to adulthood he finds himself becoming ooloi—the first ever born to a human mother. As his body changes, Jodahs develops the ability to shapeshift, manipulate matter, and cure or create disease at will. If this frightened young man is able to master his new identity, Jodahs could prove the savior of what’s left of mankind. Or, if he is not careful, he could become a plague that will destroy this new race once and for all.
 
+#### [The Voyage of the Space Beagle](https://www.goodreads.com/book/show/1981484.The_Voyage_of_the_Space_Beagle) (1950) *by [A.E. Van Vogt](https://www.goodreads.com/author/show/1293688.A_E_van_Vogt)* [3.9]
+
+This space opera novel reminds me of a series of _Star Trek_ episodes, if [Roddenberry's final frontier](https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier) had been a Machiavellian rather than a utopian vision of the future. Unlike the crew of Trek's _Enterprise_, the _Beagle_ crew engage in power struggles between its civilian and military leaders. The plot of the third section is very reminiscent of the _Alien_ movie. - [@neontapir](https://github.com/neontapir)
+
+> The book can be roughly divided into four sections corresponding to the four short stories on which it was based. In the first part, the _Space Beagle_ is infiltrated by Coeurl, a starving, intelligent and vicious cat-like carnivore with tentacles on its shoulders. In the second, the ship is almost destroyed by internal warfare caused by telepathic contact with a race of bird-like aliens. The third features Ixtl, a scarlet alien that kidnaps several crew members in order to implant parasitic eggs in their stomachs. In the last section, the crew battles Anabis, a galaxy-spanning consciousness.
 
 ### Hard Science Fiction
 
@@ -453,6 +477,16 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 #### [Dragon’s Egg](https://www.goodreads.com/book/show/263466.Dragon_s_Egg) (1980) *by [Robert L. Forward](https://en.wikipedia.org/wiki/Robert_L._Forward)* [4.1]
 
 > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms—the cheela—living on Dragon’s Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
+
+#### [Manifold series](https://www.goodreads.com/series/49783-manifold) (1999-2003) *by [Stephen Baxter](https://en.wikipedia.org/wiki/Stephen_Baxter_(author))* [3.8 avg]
+
+Stephen Baxter explores the Fermi Paradox in different ways over the course of three books (and a collection of novellas), in a gloriously hard scifi style. It is very thought provoking, and also utterly brutal and bleak. Space and time is cold and uncaring.  - [@nahkampf](https://github.com/nahkampf)
+
+> Each one of the main novels deals with a possible resolution to the Fermi paradox. The first, Time, is set in a universe that is completely devoid of intelligent life beyond that of mankind and its creations (i.e. A.I. and uplifted animals).
+>
+> The second in the series, Space, proposes the opposite: that life is endemic to the universe, and there is intelligence in nearly all possible places of the cosmos. The solution to the Fermi Paradox in this novel is that intelligent life is continually wiped out by cosmic disasters before it has time to spread too far.
+>
+> The third novel, Origin, is set in a multiverse that is a compromise between the ideals in the first two novels: that life is only on Earth, but at the same time is everywhere. This novel solves the Fermi Paradox by suggesting that intelligent life is segregated into separate parallel universes.
 
 #### ~[Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]~
 
@@ -538,6 +572,16 @@ A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. 
 >
 > Hotwired to the leading edges of art and technology, _Neuromancer_ ranks with _1984_ and _Brave New World_ as one of the century’s most potent visions of the future.
 
+#### [REAMDE](https://www.goodreads.com/book/show/10552338-reamde) (2011) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [3.9]
+
+With REAMDE (sic) Neal Stephenson returns with a much more down to earth cyberpunk story, closer to our own future and shaped not by the cyberpunk futures imagined in the early nineties but rather what we actually got instead in the 2000s. A few wrong turns quickly turns into a world-spanning chase, featuring terrorists, russian mobsters, online gaming and a more realistic, contemporary take on cyberpunk storytelling. - [@nahkampf](https://github.com/nahkampf)
+
+>Four decades ago, Richard Forthrast, the black sheep of an Iowa family, fled to a wild and lonely mountainous corner of British Columbia to avoid the draft. Smuggling backpack loads of high-grade marijuana across the border into Northern Idaho, he quickly amassed an enormous and illegal fortune. With plenty of time and money to burn, he became addicted to an online fantasy game in which opposing factions battle for power and treasure in a vast cyber realm. Like many serious gamers, he began routinely purchasing virtual gold pieces and other desirables from Chinese gold farmers—young professional players in Asia who accumulated virtual weapons and armor to sell to busy American and European buyers.
+>
+>For Richard, the game was the perfect opportunity to launder his aging hundred dollar bills and begin his own high-tech start up—a venture that has morphed into a Fortune 500 computer gaming group, Corporation 9592, with its own super successful online role-playing game, T’Rain. But the line between fantasy and reality becomes dangerously blurred when a young gold farmer accidently triggers a virtual war for dominance—and Richard is caught at the center.
+>
+>In this edgy, 21st century tale, Neal Stephenson, one of the most ambitious and prophetic writers of our time, returns to the terrain of his cyberpunk masterpieces Snow Crash and Cryptonomicon, leading readers through the looking glass and into the dark heart of imagination.
+
 #### ~[Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) (1992) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.0] 🔥~
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. _Snow Crash_ is a mind-altering romp through a future America so bizarre, so outrageous… you’ll recognize it immediately.
@@ -560,6 +604,24 @@ This book is fantastic not for the novelty of non-technological teleportation, b
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people “jaunte” a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men—and where an inarticulate outcast is the most valuable and dangerous man alive. _The Stars My Destination_ is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
 
+#### [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air) (2018) *by [Richard K. Morgan](https://en.wikipedia.org/wiki/Richard_K._Morgan)* [4.0]
+
+Modernized cyberpunk with the noir grit dialled up to eleven. - [@nahkampf](https://github.com/nahkampf)
+
+> An ex-corporate enforcer, Hakan Veil, is forced to bodyguard Madison Madekwe, part of a colonial audit team investigating a disappeared lottery winner on Mars. But when Madekwe is abducted, and Hakan nearly killed, the investigation takes him farther and deeper than he had ever expected. And soon Hakan discovers the heavy price he may have to pay to learn the truth.
+
+#### [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway) (2017) *by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)* [3.7]
+
+Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted people walking away from an increasingly oppressive capitalist society and creating their own ad-hoc societies. Doctorow manages to combine cyberpunk "high tech, low life" with a bit of utopian science fiction which feels very refreshing. - [nahkampf](https://github.com/nahkampf)
+
+> In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
+>
+> With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators – and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
+>
+> As more and more people choose to "walkaway", the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements.
+>
+> One thing that the elite are especially interested in is scientific research that the walkaways are carrying out which could finally put an end to death – and all this leads to revolution and eventual war.
+
 #### [Ware](https://www.goodreads.com/series/41816-ware) (1982-2000) *by [Rudy Rucker](https://en.wikipedia.org/wiki/Rudy_Rucker)* [3.7]
 
 > Cobb Anderson created the “boppers,” sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers—and eventually every human—into a giant, melded consciousness. Some of the little boppers aren’t too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his “software.” It seems like a good idea to Cobb.
@@ -570,6 +632,19 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 > A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and _Lord Jim_. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, _Hard-Boiled Wonderland and the End of the World_ is the tour de force that expanded Haruki Murakami’s international following. Tracking one man’s descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.
 
+### Utopia
+
+_Utopian novels deal with imaginary communities or societies that are desirable or pleasant._
+
+#### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.9]
+
+My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur C. Clarke. The book deals with the utopian society where the aliens are human beings from the old earth. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
+
+> Just a few islands in a planetwide ocean, Thalassa was a veritable paradise—home to one of the small colonies founded centuries before by robot Mother Ships when the Sun had gone nova and mankind had fled Earth.
+>
+> Mesmerized by the beauty of Thalassa and overwhelmed by its vast resources, the colonists lived an idyllic existence, unaware of the monumental evolutionary event slowly taking place beneath their seas...
+>
+> Then the Magellan arrived in orbit carrying one million refugees from the last, mad days on Earth. And suddenly uncertainty and change had come to the placid paradise that was Thalassa.
 
 ### Dystopia
 
@@ -580,7 +655,6 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 > Written in 1948, _1984_ was George Orwell’s chilling prophecy about the future.
 >
 > While 1984 has come and gone, Orwell’s narrative is more timely that ever. _1984_ presents a “negative utopia,” that is at once a startling and haunting vision of the world—so powerful that it’s completely convincing from start to finish. No one can deny the power of this novel, its hold on the imaginations of entire generations of readers, or the resiliency of its admonitions—a legacy that seems to grow, not lessen, with the passage of time.
-
 
 #### ~[A Clockwork Orange](https://www.goodreads.com/book/show/227463.A_Clockwork_Orange) (1962) *by [Anthony Burgess](https://en.wikipedia.org/wiki/Anthony_Burgess)*~
 [3.99]
@@ -689,6 +763,12 @@ My favourite of all Philip K. Dick's novels, the I Ching and the alternate histo
 
 > An alternate history novel set in 1962, fifteen years after an alternate ending to World War II which in the novel lasted until 1947, the novel concerns intrigues between the victorious Axis Powers—Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule.
 
+#### [The Handmaid's Tale](https://www.goodreads.com/book/show/12961964-the-handmaid-s-tale) (1986) *by [Margaret Atwood](https://www.goodreads.com/author/show/3472.Margaret_Atwood)* [4.1]
+
+A bleak and haunting tale, easy to picture playing out in today's political climate. There's a reason the TV series adaptation is popular. - [@neontapir](https://github.com/neontapir)
+
+> Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.
+
 ### Space Opera
 
 _Novels which emphasize adventure, set mainly or entirely in outer space, usually involving conflict between opponents possessing advanced abilities, weapons, and other technology._
@@ -739,6 +819,11 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > The trilogy is set in a universe with a wealth of worlds and artificial orbiting colonies. The plot is centered on the souls of the dead coming back from a hellish “beyond” to possess the living, and the latter fighting back. It was followed by a companion to the series, _The Confederation Handbook_, an informational book containing data about the universe of the _Night’s Dawn_ trilogy. Hamilton re-set several earlier short stories in the Confederation timeline, published as the collection _A Second Chance at Eden_, including the newly written title novella.
 
+#### [Revelation Space](https://www.goodreads.com/series/56392-revelation-space) (2000-2018) *by [https://en.wikipedia.org/wiki/Alastair_Reynolds)* [4.0 avg]
+
+Alastair Reynolds' take on the Fermi Paradox is a vast and brutal epic, consisting of the three "main" books (forming the "Inhibitor Trilogy") and a few other books and novellas set in the same universe. Revelation Space is page-turning "hard space opera" - believable but fantastic, and delightfully bizarre at times. - [@nahkampf](https://github.com/nahkampf)
+
+> Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him. Because the Amarantin were destroyed for a reason — and if that reason is uncovered, the universe—and reality itself — could be irrecoverably altered...
 
 ### Post Apocalyptic
 
@@ -810,6 +895,27 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 > The spellbinding story of an isolated post-holocaust community determined to preserve itself, through a perilous experiment in cloning. Sweeping, dramatic, rich with humanity, and rigorous in its science, _Where Late the Sweet Birds Sang_ is widely regarded as a high point of both humanistic and hard SF, winning SF’s Hugo Award and Locus Award on its first publication.
 
+#### [The Road](https://www.goodreads.com/book/show/6288.The_Road) (2006) *by [Cormac McCarthy](https://www.goodreads.com/author/show/4178.Cormac_McCarthy)* [4.0]
+
+A dreary story that compels you forward with its unyielding backdrop and vivid characters. - [@neontapir](https://github.com/neontapir)
+
+> A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don’t know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food—and each other. It boldly imagines a future in which no hope remains, but in which the father and his son, “each the other’s world entire,” are sustained by love. Winner of the 2007 Pulitzer Prize for fiction.
+
+#### [Severance](https://www.goodreads.com/book/show/36348525-severance) (2018) *by [Ling Ma](https://www.goodreads.com/author/show/17343848.Ling_Ma)* [3.8]
+
+Although I'd like to believe I'd do well in the apocalypse, this story spells out how a younger me might've fared.  - [@neontapir](https://github.com/neontapir)
+
+> An offbeat office novel turns apocalyptic satire as a young woman transforms from orphan to worker bee to survivor.
+>
+> Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. She barely notices when a plague of biblical proportions sweeps New York. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost. Candace won’t be able to make it on her own forever, though. Enter a group of survivors, led by the power-hungry IT tech Bob. They’re traveling to a place called the Facility, where, Bob promises, they will have everything they need to start society anew. But Candace is carrying a secret she knows Bob will exploit. Should she escape from her rescuers?
+
+#### [The City of Ember](https://www.goodreads.com/book/show/307791.The_City_of_Ember) (2003) *by [Jeanne DuPrau](https://www.goodreads.com/author/show/2347.Jeanne_DuPrau)* [3.9]
+
+A less violent coming of age story in the vein of _Hugo_ or _The Hunger Games_. - [@neontapir](https://github.com/neontapir)
+
+> Many hundreds of years ago, the city of Ember was created by the Builders to contain everything needed for human survival. It worked…but now the storerooms are almost out of food, crops are blighted, corruption is spreading through the city and worst of all—the lights are failing. Soon Ember could be engulfed by darkness…
+>
+> But when two children, Lina and Doon, discover fragments of an ancient parchment, they begin to wonder if there could be a way out of Ember. Can they decipher the words from long ago and find a new future for everyone? Will the people of Ember listen to them?
 
 ### Military Science Fiction
 
@@ -823,8 +929,10 @@ Conan the Barbarian in space. - [@alex-keyes](https://github.com/alex-keyes)
 >
 >Graham Mcneill's epic trilogy of Ultramarines novels is a masterpiece of non-stop action! Containing the novels Nightbringer, Warriors of Ultramar and Dead Sky, Black Sun, plus a connected short story, Chains of Command, the series follows the adventures of Space Marine Captain Uriel Ventris and the Ultramarines as they battle against the enemies of mankind. From their home world of Macragge, into the dreaded Eye of Terror and beyond, Graham McNeill's prose rattles like gunfire and brings the Space Marines to life like never before.
 
-#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines)  (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+
 A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
+
 > The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to two thousand calories of badly flavored soy every day.
 >
 > You can hope to win the lottery and draw a ticket on a colony ship settling off-world, or you can join the service.
@@ -869,7 +977,6 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
 
 > The Earth’s leaders have drawn a line in the interstellar sand—despite the fact that the fierce alien enemy that they would oppose is inscrutable, unconquerable, and very far away. A reluctant conscript drafted into an elite Military unit, Private William Mandella has been propelled through space and time to fight in the distant thousand-year conflict; to perform his duties without rancor and even rise up through military ranks. Pvt. Mandella is willing to do whatever it takes to survive the ordeal and return home. But “home” may be even more terrifying than battle, because, thanks to the time dilation caused by space travel, Mandella is aging months while the Earth he left behind is aging centuries.
 
-
 ### Police Procedural Science Fiction
 
 #### ~[Lock In](https://www.goodreads.com/book/show/21418013-lock-in) (2014) *by [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)* [3.8]~
@@ -883,7 +990,6 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
 > Spurred by grief and the sheer magnitude of the suffering, America undertakes a massive scientific initiative. Nothing can restore the ability to control their own bodies to the locked in. But then two new technologies emerge. One is a virtual-reality environment, “The Agora,” in which the locked-in can interact with other humans, both locked-in and not. The other is the discovery that a few rare individuals have brains that are receptive to being controlled by others, meaning that from time to time, those who are locked in can “ride” these people and use their bodies as if they were their own.
 >
 > This skill is quickly regulated, licensed, bonded, and controlled. Nothing can go wrong. Certainly nobody would be tempted to misuse it, for murder, for political power, or worse…
-
 
 ### Techno Thriller
 
@@ -911,7 +1017,6 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 > A group of American scientists are rushed to a huge vessel that has been discovered resting on the ocean floor in the middle of the South Pacific. What they find defines their imaginations and mocks their attempts at logical explanation. It is a spaceship of phenomenal dimensions, apparently, undamaged by its fall from the sky. And, most startling, it appears to be at least three hundred years old…
 
-
 ### Fantasy
 
 _Fantasy books which contain elements of science fiction. For pure fantasy, see [this list](https://github.com/RichardLitt/awesome-fantasy)._
@@ -934,7 +1039,6 @@ This is debatably science fiction. I mention it here because certain elements, l
 
 > _There Are Doors_ is the story of a man who falls in love with a goddess from an alternate universe. She flees him, but he pursues her through doorways—interdimensional gateways—to the other place, determined to sacrifice his life, if necessary, for her love.
 
-
 ### Drama
 
 #### ~[The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks) (2014) *by [David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_%28author%29)* [3.9]~
@@ -947,10 +1051,17 @@ If you liked Cloud Atlas this is a good read.
 >
 > A Cambridge scholarship boy grooming himself for wealth and influence, a conflicted father who feels alive only while reporting from occupied Iraq, a middle-aged writer mourning his exile from the bestseller list—all have a part to play in this surreal, invisible war on the margins of our world. From the medieval Swiss Alps to the nineteenth-century Australian bush, from a hotel in Shanghai to a Manhattan townhouse in the near future, their stories come together in moments of everyday grace and extraordinary wonder.
 
-
 ### Biopunk
 
 _Novels which focus on the near-future unintended consequences of biotechnology revolutions._
+
+#### [Pandemic](https://www.goodreads.com/book/show/34811896-pandemic) (2017) *by [A.G. Riddle](https://www.goodreads.com/author/show/3087199.A_G_Riddle)* [4.04]
+
+The first book in a two part series called the extinction files, the story explores a bioterrorist plot attempting to usurp the major world governments, with an extra scifi twist . Not what I would call hard SciFi and it has its fair share of cheese and cliche, but enough action and suspense to keep the party going without getting boring. - [@Rogue-System](https://github.com/Rogue-System)
+
+>A deadly outbreak in Kenya. A conspiracy beyond imagination. And a race to save humanity in its darkest hour.
+>
+>From A.G. Riddle, the worldwide bestselling author of The Atlantis Gene and Departure, comes a novel that will change everything you think you know about pandemics.
 
 #### ~[The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) (2009) *by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi)* [3.7]~
 
@@ -960,6 +1071,11 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 >
 > What happens when calories become currency? What happens when bio-terrorism becomes a tool for corporate profits, when said bio-terrorism’s genetic drift forces mankind to the cusp of post-human evolution? Award-winning author Paolo Bacigalupi delivers one of the most highly acclaimed science fiction novels of the twenty-first century.
 
+#### [Kiln People](https://www.goodreads.com/book/show/96478.Kiln_People) (2002) *by [David Brin](https://www.goodreads.com/author/show/14078.David_Brin)* [3.8]
+
+This novel explores how society might adapt to affordable temporary cloning of one's self. - [@neontapir](https://github.com/neontapir)
+
+> In a perilous future where disposable duplicate bodies fulfill every legal and illicit whim of their decadent masters, life is cheap. No one knows that better than Albert Morris, a brash investigator with a knack for trouble, who has sent his own duplicates into deadly peril more times than he cares to remember. But when Morris takes on a ring of bootleggers making illegal copies of a famous actress, he stumbles upon a secret so explosive it has incited open warfare on the streets of Dittotown. Morris must enter a shadowy, nightmare world of ghosts and golems where nothing -- and no one -- is what they seem, memory itself is suspect, and the line between life and death may no longer exist.
 
 ### Speculative Fiction
 
@@ -995,6 +1111,11 @@ This was pretty good; it's pretty obvious what it is about, and it reads predict
 
 > Andrew Harlan is an Eternal, a man whose job it is to range through past and present Centuries, monitoring and, where necessary, altering Time’s myriad cause-and-effect relationships. But when Harlan meets and falls for a non-Eternal woman, he seeks to use the awesome powers and techniques of the Eternals to twist time for his own purposes, so that he and his love can survive together.
 
+#### [The Years of Rice and Salt](https://www.goodreads.com/book/show/2723.The_Years_of_Rice_and_Salt) (2002) *by [Kim Stanley Robinson](https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson)* [3.7]
+
+The alternate history worldbuilding is the draw here, and the scale and depth of it is impressive. - [@neontapir](https://github.com/neontapir)
+
+> It is the fourteenth century and one of the most apocalyptic events in human history is set to occur - the coming of the Black Death. History teaches us that a third of Europe's population was destroyed. But what if? What if the plague killed 99 percent of the population instead? How would the world have changed? This is a look at the history that could have been: a history that stretches across centuries, a history that sees dynasties and nations rise and crumble, a history that spans horrible famine and magnificent innovation. These are the years of rice and salt.
 
 ### Time Travel
 
@@ -1034,16 +1155,21 @@ Worth the read, mostly because it is the first time the words 'time machine' wer
 >
 > So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H. G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes… and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth. There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well. Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, _The Time Machine_ will continue to enthrall readers for generations to come.
 
+#### [The Eyre Affair](https://www.goodreads.com/book/show/27003.The_Eyre_Affair) (2001) *by [Jasper Fforde](https://www.goodreads.com/author/show/4432.Jasper_Fforde)* [3.9]
+
+This novel is absurd fun -- think Douglas Adams style with a literary flair. Though flawed, the later novels in the series are in my reading pile. - [@neontapir](https://github.com/neontapir)
+
+> Great Britain circa 1985: time travel is routine, cloning is a reality (dodos are the resurrected pet of choice), and literature is taken very, very seriously. Acheron Hades, Third Most Wanted Man In the World, steals the original manuscript of Martin Chuzzlewit and kills a minor character, who then disappears from every volume of the novel ever printed! Hades' real target is the beloved Jane Eyre, and it's not long before he plucks her from the pages of Bronte's novel. Enter Thursday Next, the Special Operative's renowned literary detective. With the help of her uncle Mycroft's Prose Portal, Thursday enters the novel to rescue Jane Eyre from this heinous act of literary homicide. Can Thursday save Jane Eyre and Bronte's masterpiece?
 
 ### Comedy
 
-#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* 3.94
+#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
 A bit of a lighthearted series, it's a great drama - [@alexkeyes](https://github.com/alex-keyes)
 
 > NEVER VOLUNTEER FOR ACTIVE DUTY ...Bob Howard is a low-level techie working for a super-secret government agency. While his colleagues are out saving the world, Bob's under a desk restoring lost data. His world was dull and safe - but then he went and got Noticed. Now, Bob is up to his neck in spycraft, parallel universes, dimension-hopping terrorists, monstrous elder gods and the end of the world. Only one thing is certain: it will take more than a full system reboot to sort this mess out ...This is the first novel in the Laundry Files.
 
-#### ~[The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.20] 🌟 🔥~
+#### ~[The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.2] 🌟 🔥~
 
 One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1069,7 +1195,6 @@ Books:
 >
 > An American hacker in King Arthur’s court, Martin must now train to become a full-fledged master of his powers, discover the truth behind the ancient wizard Merlin… and not, y’know, die or anything.
 
-
 ### Horror
 
 #### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.12] 🔥
@@ -1083,9 +1208,6 @@ This book has a cult following, and upon reading it this summer, I fully underst
 >The story remains unchanged, focusing on a young family that moves into a small home on Ash Tree Lane where they discover something is terribly wrong: their house is bigger on the inside than it is on the outside.
 >
 >Of course, neither Pulitzer Prize-winning photojournalist Will Navidson nor his companion Karen Green was prepared to face the consequences of that impossibility, until the day their two little children wandered off and their voices eerily began to return another story—of creature darkness, of an ever-growing abyss behind a closet door, and of that unholy growl which soon enough would tear through their walls and consume all their dreams.
-
-
-
 
 ## Short Story Collections
 
@@ -1202,6 +1324,15 @@ Very few films can stand up to as many rewatches as this film can - there are la
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
+#### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) (2017) [8.0]
+
+Categories: `dystopia` `ai` `cyberpunk` `thriller` `mystery`<br>
+Director: _Denis Villeneuve_
+
+Blade Runner 2049 returns to the original book's deep philosophical questions about the nature of humanity, and expressed through a captivating, epic mystery it amounts to a breathtaking, mind-bending cinematic experience. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)s
+
+> A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
+
 #### ~[Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]~
 
 Categories: `dystopia` `police`
@@ -1301,6 +1432,8 @@ It was pretty good, the premise is quiet interesting, and the acting was quite g
 
 I thought it was great, and I was a bit anxious about there being so many scenes repeating the same thing, but it worked! - [@tjFogarty](https://github.com/tjFogarty)
 
+One of my favorite sci-fi movies of all time. The source material is supposed to be good too, which is a manga called "All You Need is Kill". Haven't read it yet, but if you liked the movie then you would probably like this too. - [@wulfshadow](https://github.com/wulfshadow)
+
 > A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
 
 #### [Eraserhead](http://www.imdb.com/title/tt0074486/) (1977) [7.4]
@@ -1337,7 +1470,7 @@ Categories: `Action` `Adventure` `Sci-Fi`
 
 Forbidden Planet is one of, if not the most iconic Science Fiction movie to have have been released during the 1950's. It stands shoulder to shoulder with the likes of "The Day the Earth Stood Still" and "The Invasion of the Body Snatchers".
 
-Forbidden Planet takes the "hard" Sci-Fi route, whilst retaining fantastical elements that are associated with space dramas. The film carries a level of class that elevates it above its genre contemporaries due to the fantastic production values. The special effects and set designs hold up remarkably well even by today's standards. - [@augustopedro](https://github.com/augustopedro)
+Forbidden Planet takes the "hard" Sci-Fi route, whilst retaining fantastical elements that are associated with space dramas. The film carries a level of class that elevates it above its genre contemporaries due to the fantastic production values. The special effects and set designs hold up remarkably well even by today's standards. - @augustopedro
 
 > A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.
 
@@ -1713,6 +1846,14 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 > A three-part miniseries on politics, betrayal, lust, greed and the coming of a Messiah. Based on Frank Herbert's classic science fiction novel.
 
+#### [Eureka](https://www.imdb.com/title/tt0796264/) (2006-2012) [7.9]
+
+Categories: `adventure` `drama` `family`
+
+It is all about a fictional town called Eureka. Inhabitants are geniuses and scientists. This is where the most major technology inventions in the last five decades did happen. Very enjoyable and entertaining show. Most of the episodes were keeping me guessing 'what will happen next?' and 'how this all will end?'. - [@vovinacci](https://github.com/vovinacci)
+
+> A U.S. Marshall becomes the sheriff of a remote cozy little Northwestern town of Eureka where the best minds in the US have secretly been tucked away to build futuristic inventions for the government which often go disastrously wrong.
+
 #### [Farscape](http://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
 
 Categories: `adventure` `drama`
@@ -1801,7 +1942,7 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 Categories: `action` `adventure` `drama`
 
-In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - [@augustopedro](https://github.com/augustopedro)
+In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - @augustopedro
 
 > Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
 
@@ -1809,7 +1950,7 @@ In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a
 
 Categories: `action` `adventure` `drama`
 
-While Discovery is fundamentally quite different from much of the Trek that's come before, its engagement with the franchise, and willingness to both celebrate and examine its core values, keep it true to that spirit. As the medium of television evolves, it's comforting to know that Star Trek is there to evolve right along with it. - [@augustopedro](https://github.com/augustopedro)
+While Discovery is fundamentally quite different from much of the Trek that's come before, its engagement with the franchise, and willingness to both celebrate and examine its core values, keep it true to that spirit. As the medium of television evolves, it's comforting to know that Star Trek is there to evolve right along with it. - @augustopedro
 
 > Ten years before Kirk, Spock and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.
 
@@ -1825,7 +1966,7 @@ A worthy successor to The Next Generation, well developed characters, great Xind
 
 Categories: `action` `adventure` `mystery`
 
-Similar in ethic and setting to the Star Trek: The Original Series, but with new enemies and technologies; continues to deal with issues of morality, culture, and politics. The stories and the acting are excellent, and it has pretty amazing special effects for that time. There's also 4 movies which take place after the series. - [@augustopedro](https://github.com/augustopedro)
+Similar in ethic and setting to the Star Trek: The Original Series, but with new enemies and technologies; continues to deal with issues of morality, culture, and politics. The stories and the acting are excellent, and it has pretty amazing special effects for that time. There's also 4 movies which take place after the series. - @augustopedro
 
 > Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
 
@@ -1837,9 +1978,17 @@ A science-fiction masterpiece, Star Trek has been a really important vision not 
 
 The Original Series, in many ways, is Star Trek at its purest. It's true that it could be campy and slow, but don't mistake that for it being unsophisticated. It was very smartly written, and while it can vary wildly in quality (like many shows from the 60's) it has a solid philosophical core, and often had some interesting things to say.
 
-Plus, I'm not sure the franchise has ever quite topped the amazing chemistry between Shatner, Nimoy, and Kelly. It's worth watching for them alone. - [@augustopedro](https://github.com/augustopedro)
+Plus, I'm not sure the franchise has ever quite topped the amazing chemistry between Shatner, Nimoy, and Kelly. It's worth watching for them alone. - @augustopedro
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
+
+#### [The 100](https://www.imdb.com/title/tt2661044/) (2014–) [7.7]
+
+Categories:  `drama` `mystery`
+
+I never really understood the need or reason for binge watching until I encountered The 100. The first and second season were absolutely mesmerizing and compelling. The character development, the story, the plot twists; all amazing! Literally, pulled a few all-nighters because I had to know what happened next in the series. The premise of the show is after evacuating Earth do to global nuclear bombings and radiation, the International Space Station decide to send '100' of the stations adolescent deliquents down to earth so see if it is habitable again. Middle to end of season 3 start to get a little weird and supposedly it was supposed to end after season 3 so they attempt to wrap up the series. I have tried to continue watching but am no where as entranced as I was with seasons 1 and 2. - [@kyebrowning](https://github.com/kyebrowning)
+
+>Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet.
 
 #### [The Orville](https://www.imdb.com/title/tt5691552/) (2017–) [7.9]
 
@@ -1949,6 +2098,13 @@ One of the most emotional stories I ever read. We3 is a very visceral and incred
 
 > Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
 
+#### [Y: The Last Man](https://www.goodreads.com/series/86528-y-the-last-man) (2003-2008) *by Brian K. Vaughan* [4.33]
+
+Categories: `dystopian` `sci-fi`
+
+Y: The Last Man is graphic novel series unlike any other I have read. The "last man" struggles with trying to learn why every other man on earth is dead and how did he survive. Adding to his own internal struggle, the women on earth are divided between wanting to ensure humanity lives on, and those who believe they should be the last generation of humans on earth. - [@derekneuland](https://github.com/derekneuland)
+
+> Y: The Last Man is a dystopian science fiction comic book series by Brian K. Vaughan and Pia Guerra published by Vertigo beginning in 2002. The series is about the only man to survive the apparent simultaneous death of every male mammal (barring the same man's pet monkey) on Earth.
 
 ## Links
 
@@ -1956,14 +2112,6 @@ One of the most emotional stories I ever read. We3 is a very visceral and incred
 - [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
 - [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
 
-
 ## Credit
 
 Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
